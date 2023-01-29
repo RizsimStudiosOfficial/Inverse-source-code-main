@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zid_assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zid Down0000" x="0" y="0" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0001" x="293" y="0" width="293" height="343" frameX="0" frameY="-12" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0002" x="586" y="0" width="293" height="347" frameX="0" frameY="-8" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0003" x="879" y="0" width="293" height="351" frameX="0" frameY="-4" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0004" x="1172" y="0" width="293" height="355"/>
+	<SubTexture name="Zid Down0005" x="1465" y="0" width="293" height="351" frameX="0" frameY="-4" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0006" x="1758" y="0" width="293" height="347" frameX="0" frameY="-8" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0007" x="2051" y="0" width="293" height="343" frameX="0" frameY="-12" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0008" x="2344" y="0" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0009" x="2637" y="0" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0010" x="2930" y="0" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0011" x="3223" y="0" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0012" x="3516" y="0" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0013" x="0" y="355" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Down0014" x="293" y="355" width="293" height="339" frameX="0" frameY="-16" frameWidth="293" frameHeight="355"/>
+	<SubTexture name="Zid Hah0000" x="586" y="355" width="341" height="387"/>
+	<SubTexture name="Zid Hah0001" x="927" y="355" width="341" height="387"/>
+	<SubTexture name="Zid Hah0002" x="1268" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0003" x="1606" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0004" x="1944" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0005" x="2282" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0006" x="2620" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0007" x="2958" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0008" x="3296" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0009" x="3634" y="355" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0010" x="0" y="742" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0011" x="338" y="742" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0012" x="676" y="742" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0013" x="1014" y="742" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Hah0014" x="1352" y="742" width="338" height="381" frameX="-3" frameY="-6" frameWidth="341" frameHeight="387"/>
+	<SubTexture name="Zid Idle0000" x="1690" y="742" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0001" x="2024" y="742" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0002" x="2358" y="742" width="333" height="385" frameX="0" frameY="0" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0003" x="2691" y="742" width="333" height="385" frameX="0" frameY="0" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0004" x="3024" y="742" width="331" height="379" frameX="0" frameY="-6" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0005" x="3355" y="742" width="331" height="379" frameX="0" frameY="-6" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0006" x="3686" y="742" width="333" height="385" frameX="0" frameY="0" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0007" x="0" y="1127" width="333" height="385" frameX="0" frameY="0" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0008" x="333" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0009" x="667" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0010" x="1001" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0011" x="1335" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0012" x="1669" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0013" x="2003" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Idle0014" x="2337" y="1127" width="334" height="381" frameX="0" frameY="-4" frameWidth="334" frameHeight="385"/>
+	<SubTexture name="Zid Left0000" x="2671" y="1127" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0001" x="3006" y="1127" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0002" x="3341" y="1127" width="343" height="376" frameX="-2" frameY="-3" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0003" x="3684" y="1127" width="343" height="376" frameX="-2" frameY="-3" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0004" x="0" y="1512" width="343" height="375" frameX="0" frameY="-4" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0005" x="343" y="1512" width="343" height="375" frameX="0" frameY="-4" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0006" x="686" y="1512" width="343" height="376" frameX="-2" frameY="-3" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0007" x="1029" y="1512" width="343" height="376" frameX="-2" frameY="-3" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0008" x="1372" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0009" x="1707" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0010" x="2042" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0011" x="2377" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0012" x="2712" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0013" x="3047" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Left0014" x="3382" y="1512" width="335" height="379" frameX="-26" frameY="0" frameWidth="361" frameHeight="379"/>
+	<SubTexture name="Zid Right0000" x="3717" y="1512" width="358" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0001" x="0" y="1893" width="360" height="381" frameX="-3" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0002" x="360" y="1893" width="364" height="381" frameX="-5" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0003" x="724" y="1893" width="366" height="381" frameX="-8" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0004" x="1090" y="1893" width="367" height="381" frameX="-11" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0005" x="1457" y="1893" width="365" height="381" frameX="-8" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0006" x="1822" y="1893" width="363" height="381" frameX="-5" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0007" x="2185" y="1893" width="355" height="381" frameX="-2" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0008" x="2540" y="1893" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0009" x="2884" y="1893" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0010" x="3228" y="1893" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0011" x="3572" y="1893" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0012" x="0" y="2274" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0013" x="344" y="2274" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Right0014" x="688" y="2274" width="344" height="381" frameX="0" frameY="0" frameWidth="378" frameHeight="381"/>
+	<SubTexture name="Zid Up0000" x="1032" y="2274" width="423" height="388"/>
+	<SubTexture name="Zid Up0001" x="1455" y="2274" width="423" height="387" frameX="0" frameY="-1" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0002" x="1878" y="2274" width="423" height="386" frameX="0" frameY="-2" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0003" x="2301" y="2274" width="423" height="384" frameX="0" frameY="-4" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0004" x="2724" y="2274" width="423" height="382" frameX="0" frameY="-6" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0005" x="3147" y="2274" width="423" height="384" frameX="0" frameY="-4" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0006" x="3570" y="2274" width="423" height="386" frameX="0" frameY="-2" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0007" x="0" y="2662" width="423" height="387" frameX="0" frameY="-1" frameWidth="423" frameHeight="388"/>
+	<SubTexture name="Zid Up0008" x="423" y="2662" width="423" height="388"/>
+	<SubTexture name="Zid Up0009" x="846" y="2662" width="423" height="388"/>
+	<SubTexture name="Zid Up0010" x="1269" y="2662" width="423" height="388"/>
+	<SubTexture name="Zid Up0011" x="1692" y="2662" width="423" height="388"/>
+	<SubTexture name="Zid Up0012" x="2115" y="2662" width="423" height="388"/>
+	<SubTexture name="Zid Up0013" x="2538" y="2662" width="423" height="388"/>
+	<SubTexture name="Zid Up0014" x="2961" y="2662" width="423" height="388"/>
+</TextureAtlas>

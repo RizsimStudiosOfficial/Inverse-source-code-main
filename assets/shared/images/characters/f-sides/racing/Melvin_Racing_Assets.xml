@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Melvin_Racing_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Melvin Car Down0000" x="0" y="0" width="336" height="351"/>
+	<SubTexture name="Melvin Car Down0001" x="336" y="0" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0002" x="671" y="0" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0003" x="1007" y="0" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0004" x="1342" y="0" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0005" x="1678" y="0" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0006" x="2013" y="0" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0007" x="2349" y="0" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0008" x="2684" y="0" width="336" height="351"/>
+	<SubTexture name="Melvin Car Down0009" x="3020" y="0" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0010" x="3355" y="0" width="336" height="351"/>
+	<SubTexture name="Melvin Car Down0011" x="3691" y="0" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0012" x="0" y="351" width="336" height="351"/>
+	<SubTexture name="Melvin Car Down0013" x="336" y="351" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Down0014" x="671" y="351" width="336" height="351"/>
+	<SubTexture name="Melvin Car Honk0000" x="1007" y="351" width="336" height="351"/>
+	<SubTexture name="Melvin Car Honk0001" x="1343" y="351" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0002" x="1678" y="351" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0003" x="2014" y="351" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0004" x="2349" y="351" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0005" x="2685" y="351" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0006" x="3020" y="351" width="336" height="351"/>
+	<SubTexture name="Melvin Car Honk0007" x="3356" y="351" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0008" x="3691" y="351" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0009" x="0" y="702" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0010" x="335" y="702" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Honk0011" x="671" y="702" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0000" x="1006" y="702" width="335" height="348" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0001" x="1341" y="702" width="335" height="348" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0002" x="1676" y="702" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0003" x="2012" y="702" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0004" x="2347" y="702" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0005" x="2683" y="702" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0006" x="3018" y="702" width="336" height="350" frameX="0" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0007" x="3354" y="702" width="335" height="349" frameX="-1" frameY="-1" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0008" x="3689" y="702" width="336" height="351"/>
+	<SubTexture name="Melvin Car Idle0009" x="0" y="1053" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0010" x="335" y="1053" width="336" height="351"/>
+	<SubTexture name="Melvin Car Idle0011" x="671" y="1053" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0012" x="1006" y="1053" width="336" height="351"/>
+	<SubTexture name="Melvin Car Idle0013" x="1342" y="1053" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0014" x="1677" y="1053" width="336" height="351"/>
+	<SubTexture name="Melvin Car Idle0015" x="2013" y="1053" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0016" x="2348" y="1053" width="336" height="351"/>
+	<SubTexture name="Melvin Car Idle0017" x="2684" y="1053" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Idle0018" x="3019" y="1053" width="336" height="351"/>
+	<SubTexture name="Melvin Car Idle0019" x="3355" y="1053" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0000" x="3690" y="1053" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0001" x="0" y="1404" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0002" x="335" y="1404" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0003" x="671" y="1404" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0004" x="1006" y="1404" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0005" x="1342" y="1404" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0006" x="1677" y="1404" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0007" x="2013" y="1404" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0008" x="2348" y="1404" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0009" x="2684" y="1404" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0010" x="3019" y="1404" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0011" x="3355" y="1404" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0012" x="3690" y="1404" width="336" height="351"/>
+	<SubTexture name="Melvin Car Left0013" x="0" y="1755" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Left0014" x="335" y="1755" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0000" x="671" y="1755" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0001" x="1007" y="1755" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Right0002" x="1342" y="1755" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0003" x="1678" y="1755" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Right0004" x="2013" y="1755" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0005" x="2349" y="1755" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Right0006" x="2684" y="1755" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0007" x="3020" y="1755" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Right0008" x="3355" y="1755" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0009" x="3691" y="1755" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Right0010" x="0" y="2106" width="336" height="351"/>
+	<SubTexture name="Melvin Car Right0011" x="336" y="2106" width="335" height="350" frameX="-1" frameY="0" frameWidth="336" frameHeight="351"/>
+	<SubTexture name="Melvin Car Up0000" x="671" y="2106" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0001" x="1007" y="2106" width="335" height="350" frameX="-1" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0002" x="1342" y="2106" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0003" x="1678" y="2106" width="335" height="350" frameX="-1" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0004" x="2013" y="2106" width="336" height="352"/>
+	<SubTexture name="Melvin Car Up0005" x="2349" y="2106" width="335" height="351" frameX="-1" frameY="0" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0006" x="2684" y="2106" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0007" x="3020" y="2106" width="335" height="350" frameX="-1" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0008" x="3355" y="2106" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0009" x="3691" y="2106" width="335" height="350" frameX="-1" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0010" x="0" y="2458" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0011" x="336" y="2458" width="335" height="350" frameX="-1" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0012" x="671" y="2458" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0013" x="1007" y="2458" width="335" height="350" frameX="-1" frameY="-1" frameWidth="336" frameHeight="352"/>
+	<SubTexture name="Melvin Car Up0014" x="1342" y="2458" width="336" height="351" frameX="0" frameY="-1" frameWidth="336" frameHeight="352"/>
+</TextureAtlas>

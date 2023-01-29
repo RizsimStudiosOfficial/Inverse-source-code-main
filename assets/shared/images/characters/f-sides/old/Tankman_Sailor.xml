@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tankman_Sailor.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MISS Tankman DOWN note0000" x="0" y="0" width="574" height="474" frameX="-7" frameY="0" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0001" x="574" y="0" width="582" height="461" frameX="-1" frameY="-19" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0002" x="1156" y="0" width="582" height="461" frameX="-1" frameY="-19" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0003" x="1738" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0004" x="2323" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0005" x="2908" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0006" x="3493" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0007" x="4078" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0008" x="4663" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0009" x="5248" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0010" x="5833" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0011" x="6418" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0012" x="7003" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0013" x="7588" y="0" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0014" x="0" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0015" x="585" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0016" x="1170" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0017" x="1755" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0018" x="2340" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0019" x="2925" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0020" x="3510" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0021" x="4095" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0022" x="4680" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0023" x="5265" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0024" x="5850" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0025" x="6435" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0026" x="7020" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0027" x="7605" y="474" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman DOWN note0028" x="0" y="931" width="585" height="457" frameX="0" frameY="-23" frameWidth="585" frameHeight="480"/>
+	<SubTexture name="MISS Tankman Note Left0000" x="585" y="931" width="467" height="599" frameX="0" frameY="0" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0001" x="1052" y="931" width="491" height="538" frameX="-11" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0002" x="1543" y="931" width="491" height="538" frameX="-11" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0003" x="2034" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0004" x="2527" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0005" x="3020" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0006" x="3513" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0007" x="4006" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0008" x="4499" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0009" x="4992" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0010" x="5485" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0011" x="5978" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0012" x="6471" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0013" x="6964" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0014" x="7457" y="931" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0015" x="0" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0016" x="493" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0017" x="986" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0018" x="1479" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0019" x="1972" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0020" x="2465" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0021" x="2958" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0022" x="3451" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0023" x="3944" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0024" x="4437" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0025" x="4930" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0026" x="5423" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0027" x="5916" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0028" x="6409" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0029" x="6902" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0030" x="7395" y="1530" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0031" x="0" y="2068" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0032" x="493" y="2068" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Note Left0033" x="986" y="2068" width="493" height="538" frameX="-8" frameY="-70" frameWidth="502" frameHeight="608"/>
+	<SubTexture name="MISS Tankman Right Note0000" x="1479" y="2068" width="481" height="608" frameX="-19" frameY="0" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0001" x="1960" y="2068" width="483" height="554" frameX="0" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0002" x="2443" y="2068" width="483" height="554" frameX="0" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0003" x="2926" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0004" x="3410" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0005" x="3894" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0006" x="4378" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0007" x="4862" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0008" x="5346" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0009" x="5830" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0010" x="6314" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0011" x="6798" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0012" x="7282" y="2068" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0013" x="0" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0014" x="484" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0015" x="968" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0016" x="1452" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0017" x="1936" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0018" x="2420" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0019" x="2904" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0020" x="3388" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0021" x="3872" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0022" x="4356" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0023" x="4840" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0024" x="5324" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0025" x="5808" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0026" x="6292" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0027" x="6776" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0028" x="7260" y="2676" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0029" x="0" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0030" x="484" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0031" x="968" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0032" x="1452" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0033" x="1936" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0034" x="2420" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0035" x="2904" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0036" x="3388" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0037" x="3872" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0038" x="4356" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0039" x="4840" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0040" x="5324" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0041" x="5808" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0042" x="6292" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0043" x="6776" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0044" x="7260" y="3230" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman Right Note0045" x="0" y="3784" width="484" height="554" frameX="-4" frameY="-76" frameWidth="500" frameHeight="630"/>
+	<SubTexture name="MISS Tankman UP note0000" x="484" y="3784" width="486" height="685" frameX="0" frameY="0" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0001" x="970" y="3784" width="488" height="594" frameX="-2" frameY="-104" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0002" x="1458" y="3784" width="488" height="594" frameX="-2" frameY="-104" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0003" x="1946" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0004" x="2427" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0005" x="2908" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0006" x="3389" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0007" x="3870" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0008" x="4351" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0009" x="4832" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0010" x="5313" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0011" x="5794" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0012" x="6275" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0013" x="6756" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0014" x="7237" y="3784" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0015" x="0" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0016" x="481" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0017" x="962" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0018" x="1443" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0019" x="1924" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0020" x="2405" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0021" x="2886" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0022" x="3367" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="MISS Tankman UP note0023" x="3848" y="4469" width="481" height="600" frameX="-5" frameY="-98" frameWidth="490" frameHeight="698"/>
+	<SubTexture name="TANKMAN UGH0000" x="4329" y="4469" width="386" height="615" frameX="-5" frameY="-2" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0001" x="4715" y="4469" width="386" height="615" frameX="-5" frameY="-2" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0002" x="5101" y="4469" width="396" height="614" frameX="-1" frameY="-3" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0003" x="5497" y="4469" width="396" height="614" frameX="-1" frameY="-3" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0004" x="5893" y="4469" width="397" height="617"/>
+	<SubTexture name="TANKMAN UGH0005" x="6290" y="4469" width="397" height="617"/>
+	<SubTexture name="TANKMAN UGH0006" x="6687" y="4469" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0007" x="7084" y="4469" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0008" x="7481" y="4469" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0009" x="0" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0010" x="397" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0011" x="794" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0012" x="1191" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0013" x="1588" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0014" x="1985" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="TANKMAN UGH0015" x="2382" y="5086" width="397" height="616" frameX="0" frameY="-1" frameWidth="397" frameHeight="617"/>
+	<SubTexture name="Tankman DOWN note0000" x="2779" y="5086" width="582" height="474" frameX="0" frameY="-24" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0001" x="3361" y="5086" width="582" height="474" frameX="0" frameY="-24" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0002" x="3943" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0003" x="4528" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0004" x="5113" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0005" x="5698" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0006" x="6283" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0007" x="6868" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0008" x="7453" y="5086" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman DOWN note0009" x="0" y="5702" width="585" height="502" frameX="-2" frameY="0" frameWidth="587" frameHeight="502"/>
+	<SubTexture name="Tankman Idle Dance0000" x="585" y="5702" width="449" height="610" frameX="-14" frameY="-23" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0001" x="1034" y="5702" width="449" height="610" frameX="-14" frameY="-23" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0002" x="1483" y="5702" width="458" height="608" frameX="0" frameY="-24" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0003" x="1941" y="5702" width="458" height="608" frameX="0" frameY="-24" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0004" x="2399" y="5702" width="451" height="615" frameX="-3" frameY="-17" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0005" x="2850" y="5702" width="451" height="615" frameX="-3" frameY="-17" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0006" x="3301" y="5702" width="431" height="630" frameX="-14" frameY="-2" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0007" x="3732" y="5702" width="431" height="630" frameX="-14" frameY="-2" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0008" x="4163" y="5702" width="425" height="630" frameX="-20" frameY="-2" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0009" x="4588" y="5702" width="425" height="630" frameX="-20" frameY="-2" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0010" x="5013" y="5702" width="421" height="632" frameX="-20" frameY="0" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0011" x="5434" y="5702" width="421" height="632" frameX="-20" frameY="0" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0012" x="5855" y="5702" width="421" height="632" frameX="-20" frameY="0" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Idle Dance0013" x="6276" y="5702" width="421" height="632" frameX="-20" frameY="0" frameWidth="463" frameHeight="633"/>
+	<SubTexture name="Tankman Note Left0000" x="6697" y="5702" width="532" height="599" frameX="0" frameY="-10" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0001" x="7229" y="5702" width="532" height="599" frameX="0" frameY="-10" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0002" x="0" y="6334" width="523" height="609" frameX="-8" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0003" x="523" y="6334" width="523" height="609" frameX="-8" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0004" x="1046" y="6334" width="523" height="609" frameX="-8" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0005" x="1569" y="6334" width="523" height="609" frameX="-8" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0006" x="2092" y="6334" width="523" height="609" frameX="-8" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Note Left0007" x="2615" y="6334" width="523" height="609" frameX="-8" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="Tankman Right Note0000" x="3138" y="6334" width="462" height="608" frameX="-5" frameY="-6" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0001" x="3600" y="6334" width="462" height="608" frameX="-5" frameY="-6" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0002" x="4062" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0003" x="4518" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0004" x="4974" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0005" x="5430" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0006" x="5886" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0007" x="6342" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0008" x="6798" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman Right Note0009" x="7254" y="6334" width="456" height="620" frameX="0" frameY="0" frameWidth="467" frameHeight="620"/>
+	<SubTexture name="Tankman UP note0000" x="0" y="6954" width="520" height="685" frameX="0" frameY="0" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0001" x="520" y="6954" width="520" height="685" frameX="0" frameY="0" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0002" x="1040" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0003" x="1570" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0004" x="2100" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0005" x="2630" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0006" x="3160" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0007" x="3690" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0008" x="4220" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+	<SubTexture name="Tankman UP note0009" x="4750" y="6954" width="530" height="674" frameX="-4" frameY="-11" frameWidth="534" frameHeight="685"/>
+</TextureAtlas>

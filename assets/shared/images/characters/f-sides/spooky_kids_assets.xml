@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spooky_kids_assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spooky Kids Down0000" x="0" y="0" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0001" x="619" y="0" width="619" height="362" frameX="0" frameY="-12" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0002" x="1238" y="0" width="619" height="366" frameX="0" frameY="-8" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0003" x="1857" y="0" width="619" height="370" frameX="0" frameY="-4" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0004" x="2476" y="0" width="619" height="374"/>
+	<SubTexture name="Spooky Kids Down0005" x="3095" y="0" width="618" height="370" frameX="-1" frameY="-4" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0006" x="3713" y="0" width="616" height="366" frameX="-3" frameY="-8" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0007" x="4329" y="0" width="615" height="362" frameX="-4" frameY="-12" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0008" x="4944" y="0" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0009" x="5563" y="0" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0010" x="6182" y="0" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0011" x="6801" y="0" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0012" x="7420" y="0" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0013" x="0" y="374" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Down0014" x="619" y="374" width="619" height="358" frameX="0" frameY="-16" frameWidth="619" frameHeight="374"/>
+	<SubTexture name="Spooky Kids Hah0000" x="1238" y="374" width="568" height="406"/>
+	<SubTexture name="Spooky Kids Hah0001" x="1806" y="374" width="568" height="406"/>
+	<SubTexture name="Spooky Kids Hah0002" x="2374" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0003" x="2938" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0004" x="3502" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0005" x="4066" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0006" x="4630" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0007" x="5194" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0008" x="5758" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0009" x="6322" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0010" x="6886" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0011" x="7450" y="374" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0012" x="0" y="780" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0013" x="564" y="780" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Hah0014" x="1128" y="780" width="564" height="400" frameX="-4" frameY="-6" frameWidth="568" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Idle0000" x="1692" y="780" width="572" height="397" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0001" x="2264" y="780" width="572" height="398" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0002" x="2836" y="780" width="570" height="404" frameX="0" frameY="0" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0003" x="3406" y="780" width="570" height="404" frameX="0" frameY="0" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0004" x="3976" y="780" width="569" height="398" frameX="0" frameY="-6" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0005" x="4545" y="780" width="569" height="398" frameX="0" frameY="-6" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0006" x="5114" y="780" width="570" height="404" frameX="0" frameY="0" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0007" x="5684" y="780" width="570" height="404" frameX="0" frameY="0" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0008" x="6254" y="780" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0009" x="6826" y="780" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0010" x="7398" y="780" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0011" x="0" y="1184" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0012" x="572" y="1184" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0013" x="1144" y="1184" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Idle0014" x="1716" y="1184" width="572" height="400" frameX="0" frameY="-4" frameWidth="572" frameHeight="404"/>
+	<SubTexture name="Spooky Kids Left0000" x="2288" y="1184" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0001" x="2891" y="1184" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0002" x="3494" y="1184" width="595" height="394" frameX="0" frameY="-4" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0003" x="4089" y="1184" width="595" height="394" frameX="0" frameY="-4" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0004" x="4684" y="1184" width="592" height="394" frameX="-1" frameY="-4" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0005" x="5276" y="1184" width="592" height="394" frameX="-1" frameY="-4" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0006" x="5868" y="1184" width="595" height="394" frameX="0" frameY="-4" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0007" x="6463" y="1184" width="595" height="394" frameX="0" frameY="-4" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0008" x="7058" y="1184" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0009" x="0" y="1584" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0010" x="603" y="1584" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0011" x="1206" y="1584" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0012" x="1809" y="1584" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0013" x="2412" y="1584" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Left0014" x="3015" y="1584" width="603" height="398" frameX="-7" frameY="0" frameWidth="610" frameHeight="398"/>
+	<SubTexture name="Spooky Kids Right0000" x="3618" y="1584" width="607" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0001" x="4225" y="1584" width="613" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0002" x="4838" y="1584" width="615" height="400" frameX="-4" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0003" x="5453" y="1584" width="619" height="400" frameX="-4" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0004" x="6072" y="1584" width="618" height="400" frameX="-10" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0005" x="6690" y="1584" width="613" height="400" frameX="-10" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0006" x="7303" y="1584" width="614" height="400" frameX="-4" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0007" x="0" y="1984" width="602" height="400" frameX="-4" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0008" x="602" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0009" x="1195" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0010" x="1788" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0011" x="2381" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0012" x="2974" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0013" x="3567" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Right0014" x="4160" y="1984" width="593" height="400" frameX="0" frameY="0" frameWidth="628" frameHeight="400"/>
+	<SubTexture name="Spooky Kids Up0000" x="4753" y="1984" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0001" x="5431" y="1984" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0002" x="6109" y="1984" width="678" height="405" frameX="0" frameY="-1" frameWidth="678" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Up0003" x="6787" y="1984" width="678" height="403" frameX="0" frameY="-3" frameWidth="678" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Up0004" x="7465" y="1984" width="678" height="401" frameX="0" frameY="-5" frameWidth="678" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Up0005" x="0" y="2390" width="678" height="403" frameX="0" frameY="-3" frameWidth="678" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Up0006" x="678" y="2390" width="678" height="405" frameX="0" frameY="-1" frameWidth="678" frameHeight="406"/>
+	<SubTexture name="Spooky Kids Up0007" x="1356" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0008" x="2034" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0009" x="2712" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0010" x="3390" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0011" x="4068" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0012" x="4746" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0013" x="5424" y="2390" width="678" height="406"/>
+	<SubTexture name="Spooky Kids Up0014" x="6102" y="2390" width="678" height="406"/>
+</TextureAtlas>
