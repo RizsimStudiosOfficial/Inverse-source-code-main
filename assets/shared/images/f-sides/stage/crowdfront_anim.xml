@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdfront_anim.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeopleCrowd Full0000" x="0" y="0" width="3054" height="1212" frameX="0" frameY="-96" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0001" x="3054" y="0" width="3054" height="1236" frameX="0" frameY="-84" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0002" x="0" y="1236" width="3054" height="1259" frameX="0" frameY="-72" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0003" x="3054" y="1236" width="3054" height="1283" frameX="0" frameY="-60" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0004" x="0" y="2519" width="3054" height="1307" frameX="0" frameY="-48" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0005" x="3054" y="2519" width="3054" height="1331" frameX="0" frameY="-36" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0006" x="0" y="3850" width="3054" height="1355" frameX="0" frameY="-24" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0007" x="3054" y="3850" width="3054" height="1379" frameX="0" frameY="-12" frameWidth="3054" frameHeight="1403"/>
+	<SubTexture name="PeopleCrowd Full0008" x="0" y="5229" width="3054" height="1403"/>
+	<SubTexture name="PeopleCrowd Full0009" x="3054" y="5229" width="3054" height="1403"/>
+	<SubTexture name="PeopleCrowd Full0010" x="0" y="6632" width="3054" height="1403"/>
+	<SubTexture name="PeopleCrowd Full0011" x="3054" y="6632" width="3054" height="1403"/>
+</TextureAtlas>

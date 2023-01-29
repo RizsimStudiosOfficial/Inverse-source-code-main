@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Steven-he.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Failure Man Idle instance 10000" x="0" y="0" width="94" height="210"/>
+	<SubTexture name="Failure Man Idle instance 10001" x="94" y="0" width="94" height="210"/>
+</TextureAtlas>
