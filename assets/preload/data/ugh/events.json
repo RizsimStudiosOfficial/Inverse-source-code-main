@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				7500,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				29049.2957746479,
+				[
+					[
+						"Change Character",
+						"1",
+						"tankPrettyGood"
+					],
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				30950.7042253521,
+				[
+					[
+						"Change Character",
+						"1",
+						"tankman"
+					]
+				]
+			],
+			[
+				53978.8732394367,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				63380.2816901409,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				90950.7042253521,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"Dad"
+					],
+					[
+						"Change Character",
+						"1",
+						"tankPrettyGood"
+					]
+				]
+			],
+			[
+				92957.7464788732,
+				[
+					[
+						"Change Character",
+						"1",
+						"tankman"
+					]
+				]
+			]
+		]
+	}
+}

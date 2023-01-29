@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				32166.6666666667,
+				[
+					[
+						"Switch Dumb Stage",
+						"2",
+						""
+					],
+					[
+						"Flash Camera",
+						"1.2",
+						""
+					],
+					[
+						"noteskinchange",
+						"Hell_NOTE_assets",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Flash Camera",
+						"1.2",
+						""
+					],
+					[
+						"Switch Dumb Stage",
+						"1",
+						""
+					],
+					[
+						"noteskinchange",
+						"NOTE_assets",
+						""
+					]
+				]
+			]
+		]
+	}
+}
