@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Menu.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf menu0000" x="0" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0001" x="0" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0002" x="1518" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0003" x="1518" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0004" x="3036" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0005" x="3036" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0006" x="4554" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0007" x="4554" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0008" x="6072" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0009" x="6072" y="0" width="1518" height="1500"/>
+	<SubTexture name="bf menu0010" x="0" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0011" x="0" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0012" x="1518" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0013" x="1518" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0014" x="3036" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0015" x="3036" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0016" x="3036" y="1500" width="1518" height="1500"/>
+	<SubTexture name="bf menu0017" x="3036" y="1500" width="1518" height="1500"/>
+</TextureAtlas>
