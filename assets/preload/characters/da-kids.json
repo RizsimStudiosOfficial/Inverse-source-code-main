@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-83
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Spooky Kids Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Spooky Kids Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Spooky Kids Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Spooky Kids Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				-87
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Spooky Kids Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-80
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Spooky Kids Hah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/f-sides/spooky_kids_assets",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "mazid",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		240,
+		82
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

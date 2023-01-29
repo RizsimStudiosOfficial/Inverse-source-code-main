@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tankman Idle Dance"
+		},
+		{
+			"offsets": [
+				-14,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TANKMAN UGH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-8
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "TANKMAN UGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tankman UP note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tankman Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tankman Note Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				93,
+				-124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tankman DOWN note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				60
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS Tankman UP note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-145
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS Tankman DOWN note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				-26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MISS Tankman Note Left"
+		},
+		{
+			"offsets": [
+				131,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MISS Tankman Right Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/f-sides/Tankman_Sailor",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
